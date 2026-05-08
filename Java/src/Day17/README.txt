@@ -1,0 +1,1 @@
+Day17 Maven clean test completed
